@@ -3,4 +3,4 @@ TickerTapeTKTS
 
 TKTS Ticker Tape Project. Fun video of the project here: http://bit.ly/13urEWK
 
-It is likely that the API that was discovered at TDF has been removed from public access.
+It is likely the private API once available from TDF has been closed off.
